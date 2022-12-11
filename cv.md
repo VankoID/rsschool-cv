@@ -77,3 +77,14 @@ Brno University of Technology. M.Sc. Quality management.
   
 
 Izhevsk State Technical University. B.Sc. Quality management.
+
+
+## **Foreing languages:**
+
+- English level is upper-intermediate;
+
+- During work at Chemnitz University major language was English;
+
+- My Ph.D. thesis is written in English
+
+I also speak in Czech (upper-intermediate), German (pre-intermediate), Portugal (beginner)
