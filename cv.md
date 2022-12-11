@@ -48,3 +48,32 @@ Position: *Quality Engineer*
 + Augit quality management system
 
 + Static data analysis
+
+## **Education:**
+  
+*Jan.2022 - Nov.2022*
+
+
+Yandex-Practicum. Python developer
+  
+*2009 - 2015*
+
+  
+
+Brno University of Technology. Ph.D. Quality management. Energy savings and energy management system.
+
+  
+
+*2008 - 2009*
+
+  
+
+Brno University of Technology. M.Sc. Quality management.
+
+  
+
+*2003 - 2008*
+
+  
+
+Izhevsk State Technical University. B.Sc. Quality management.
