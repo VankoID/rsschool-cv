@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://vankoid.github.io/rsschool-cv/
