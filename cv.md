@@ -24,3 +24,27 @@
 + Docker
 
 + GitHub
+
+## **Code example:**
+```
+let num = -23;
+const newNum = num >=0 ? num + 10 :num - 15
+console.log(newNum)
+```
+## **Work experience:**
+
+### Chemnitz University of Technology
+
+Position: *Research associate*
+
++ Virtual reality tool development for machine tool
+
++ Research providing and conference attendance
+
+### FGUP "Izhevsky Mechanichesky zavod"
+
+Position: *Quality Engineer*
+
++ Augit quality management system
+
++ Static data analysis
